@@ -1,0 +1,4 @@
+pyautogui
+loguru
+ocrmac
+img2pdf
